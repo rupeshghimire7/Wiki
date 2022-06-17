@@ -1,0 +1,1 @@
+JavaScript is a high level programming language.
